@@ -1,0 +1,13 @@
+# Processing
+pandas==1.4.3
+numpy==1.20.3
+
+# Text
+nltk==3.6.5
+re==2.2.1
+
+# Algorithm
+sklearn==1.0.2
+
+# Visualization
+matplotlib==3.4.3
